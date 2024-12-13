@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Test
-![Profile Views](https://komarev.com/ghpvc/?username=xherby07)
+
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=xherby07.xherby07)
 
 ## About Me
 - 🔭 I’m currently working as a software and web developer.
