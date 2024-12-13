@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 😄 I also enjoy tinkering with electronics, microcontrollers, IoT devices, robotics, 3D modeling, and circuit designing.
 - ⚡ Fun fact: I love electronics more than programming, but I work as a developer to support my passion. This job allows me to fund my projects and stay connected to the tech world.
 
-## Languages and Tools
+## Languages and Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
