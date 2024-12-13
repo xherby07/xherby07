@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/xherby07.xherby07/visits)
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=xherby07.xherby07)
 
 ## About Me
 - 🔭 I’m currently working as a software and web developer.
