@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+![visitor badge](https://komarev.com/ghpvc/?username=xherby07)
 
 ## About Me
 - 🔭 I’m currently working as a software and web developer.
